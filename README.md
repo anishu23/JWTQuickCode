@@ -1,2 +1,2 @@
 # JWTQuickCode
-Quickly code jwt signed sign in and me api using express and node for a coding interview
+Quickly code jwt signed sign in and me api using express and node for a coding session
